@@ -1,13 +1,10 @@
 {
   "name": "ProgDT",
   "main": "./lib/progdt",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Gets the Programmer's Date &&|| Time!",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
-    "atom-workspace": "progdt:date",
-    "atom-workspace": "progdt:time",
     "atom-workspace": "progdt:datetime"
   },
   "repository": "https://github.com/DocCodes/progdt",
