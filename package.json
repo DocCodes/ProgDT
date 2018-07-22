@@ -1,7 +1,7 @@
 {
   "name": "ProgDT",
   "main": "./lib/progdt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gets the Programmer's Date &&|| Time!",
   "keywords": [],
   "activationCommands": {
