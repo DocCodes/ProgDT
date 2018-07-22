@@ -10,7 +10,7 @@
     "atom-workspace": "progdt:time",
     "atom-workspace": "progdt:datetime"
   },
-  "repository": "https://github.com/atom/progdt",
+  "repository": "https://github.com/DocCodes/progdt",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
