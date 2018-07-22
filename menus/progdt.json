@@ -1,0 +1,42 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "ProgDT Date",
+        "command": "progdt:date"
+      },
+      {
+        "label": "ProgDT time",
+        "command": "progdt:time"
+      },
+      {
+        "label": "ProgDT DateTime",
+        "command": "progdt:datetime"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "progdt",
+          "submenu": [
+            {
+              "label": "Date",
+              "command": "progdt:date"
+            },
+            {
+              "label": "Time",
+              "command": "progdt:time"
+            },
+            {
+              "label": "DateTime",
+              "command": "progdt:datetime"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "ProgDT",
+  "main": "./lib/progdt",
+  "version": "1.0.0",
+  "description": "Gets the Programmer's Date &&|| Time!",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "progdt:date",
+    "atom-workspace": "progdt:time",
+    "atom-workspace": "progdt:datetime"
+  },
+  "repository": "https://github.com/atom/progdt",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
